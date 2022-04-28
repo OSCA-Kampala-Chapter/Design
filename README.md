@@ -12,3 +12,8 @@ This repository includes various design assets used for the kampala open source 
 ### Tweet API link for Open Source Summit 2022
 
 [https://twitter.com/intent/tweet?text=Hi%20there%2C%20I%27m%20at%20%40oscakampala%20Open%20Source%20Summit%202022!%20%0A%0A%23OSSK22](https://twitter.com/intent/tweet?text=Hi%20there%2C%20I%27m%20at%20%40oscakampala%20Open%20Source%20Summit%202022!%20%0A%0A%23OSSK22)
+
+
+### Images from the Open Source Summit Kampala 2022
+
+[https://www.flickr.com/photos/195501210@N07/](https://www.flickr.com/photos/195501210@N07/)
